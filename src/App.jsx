@@ -10,7 +10,7 @@ import History from "./pages/dashboard/History";
 import Jobs from "./pages/dashboard/Jobs";
 import Deals from "./pages/deals";
 import Menu from "./pages/menu";
-import Login from "./pages/login";
+import Login from "./pages/Login";
 import Signup from "./pages/signup";
 
 const App = () => {
