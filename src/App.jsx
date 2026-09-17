@@ -9,7 +9,8 @@ import Profile from "./pages/dashboard/Profile";
 import History from "./pages/dashboard/History";
 import Jobs from "./pages/dashboard/Jobs";
 import Deals from "./pages/deals";
-import Menu from "./pages/menu";
+import Menu from "./pages/Menu"
+
 import Login from "./pages/Login";
 import Signup from "./pages/signup";
 
